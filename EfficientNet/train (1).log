@@ -1,0 +1,51 @@
+========== fold: 4 training ==========
+Epoch 1 - avg_train_loss: 1.4788  avg_val_loss: 1.4560  time: 255s
+Epoch 1 - val_accuracy: 0.8219
+Epoch 1 - Save Best Score: 0.8219 Model
+Epoch 2 - avg_train_loss: 1.4523  avg_val_loss: 1.4484  time: 240s
+Epoch 2 - val_accuracy: 0.8394
+Epoch 2 - Save Best Score: 0.8394 Model
+Epoch 3 - avg_train_loss: 1.4460  avg_val_loss: 1.4443  time: 239s
+Epoch 3 - val_accuracy: 0.8488
+Epoch 3 - Save Best Score: 0.8488 Model
+Epoch 4 - avg_train_loss: 1.4429  avg_val_loss: 1.4415  time: 239s
+Epoch 4 - val_accuracy: 0.8572
+Epoch 4 - Save Best Score: 0.8572 Model
+Epoch 5 - avg_train_loss: 1.4385  avg_val_loss: 1.4407  time: 240s
+Epoch 5 - val_accuracy: 0.8607
+Epoch 5 - Save Best Score: 0.8607 Model
+Epoch 6 - avg_train_loss: 1.4364  avg_val_loss: 1.4400  time: 237s
+Epoch 6 - val_accuracy: 0.8607
+Epoch 7 - avg_train_loss: 1.4341  avg_val_loss: 1.4387  time: 237s
+Epoch 7 - val_accuracy: 0.8649
+Epoch 7 - Save Best Score: 0.8649 Model
+Epoch 8 - avg_train_loss: 1.4329  avg_val_loss: 1.4389  time: 237s
+Epoch 8 - val_accuracy: 0.8626
+Epoch 9 - avg_train_loss: 1.4311  avg_val_loss: 1.4386  time: 239s
+Epoch 9 - val_accuracy: 0.8645
+Epoch 10 - avg_train_loss: 1.4304  avg_val_loss: 1.4376  time: 239s
+Epoch 10 - val_accuracy: 0.8647
+Epoch 11 - avg_train_loss: 1.4357  avg_val_loss: 1.4411  time: 238s
+Epoch 11 - val_accuracy: 0.8551
+Epoch 12 - avg_train_loss: 1.4345  avg_val_loss: 1.4407  time: 238s
+Epoch 12 - val_accuracy: 0.8577
+Epoch 13 - avg_train_loss: 1.4329  avg_val_loss: 1.4386  time: 238s
+Epoch 13 - val_accuracy: 0.8647
+Epoch 14 - avg_train_loss: 1.4301  avg_val_loss: 1.4417  time: 237s
+Epoch 14 - val_accuracy: 0.8532
+Epoch 15 - avg_train_loss: 1.4285  avg_val_loss: 1.4405  time: 237s
+Epoch 15 - val_accuracy: 0.8621
+Epoch 16 - avg_train_loss: 1.4264  avg_val_loss: 1.4402  time: 238s
+Epoch 16 - val_accuracy: 0.8598
+Epoch 17 - avg_train_loss: 1.4237  avg_val_loss: 1.4409  time: 238s
+Epoch 17 - val_accuracy: 0.8614
+Epoch 18 - avg_train_loss: 1.4222  avg_val_loss: 1.4405  time: 237s
+Epoch 18 - val_accuracy: 0.8638
+Epoch 19 - avg_train_loss: 1.4217  avg_val_loss: 1.4407  time: 238s
+Epoch 19 - val_accuracy: 0.8612
+Epoch 20 - avg_train_loss: 1.4212  avg_val_loss: 1.4412  time: 237s
+Epoch 20 - val_accuracy: 0.8609
+========== fold: 4 result ==========
+Score: 0.86492
+========== CV ==========
+Score: 0.86492
